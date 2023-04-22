@@ -1,3 +1,89 @@
 ul{
     font-size: 20px;
 }
+
+.ytvid{
+    height: 200px;
+    width: 445px;
+}
+
+.common{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    font-size: 25px;
+}
+
+ul{
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+.ytvid{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.body{
+    padding: 10px;
+}
+
+.tableauPlaceholder{
+    width: 25%;
+    height: 25%;
+    border: solid lightgray;
+}
+
+h3{
+    padding: 25px;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    padding-top: 15px;
+}
+
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+}
